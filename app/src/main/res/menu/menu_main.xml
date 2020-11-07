@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.doubr.ft_hangouts.activities.MainActivity">
+
+        <item
+            android:id="@+id/settingChangeCyan"
+            android:title="@string/colorCyan"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/settingChangeGray"
+            android:title="@string/colorGray"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/settingChangeYellow"
+            android:title="@string/colorYellow"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/settingChangeGreen"
+            android:title="@string/colorGreen"
+            app:showAsAction="never" />
+</menu>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="myContactsTitle">Контакты</string>
+    <string name="colorCyan">Циан</string>
+    <string name="colorGray">Серый</string>
+    <string name="colorYellow">Жёлтый</string>
+    <string name="colorGreen">Зелёный</string>
+    <string name="firstName">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="createContact">Создать контакт</string>
+    <string name="displayContactTitle">Изменить контакт</string>
+    <string name="createContactTitle">Создать контакт</string>
+    <string name="saveContact">Сохранить</string>
+    <string name="deleteContact">Удалить</string>
+    <string name="call">Звонок</string>
+    <string name="message">Написать сообщение</string>
+    <string name="send_message_button">Отправить</string>
+    <string name="messages">Сообщения</string>
+    <string name="sms_sent">Сообщение отправлено</string>
+    <string name="generic_failure">Сбой формировки сообщения</string>
+    <string name="no_service">Нет сети</string>
+    <string name="null_pdu">NULL PDU</string>
+    <string name="radio_off">Сеть выключена</string>
+    <string name="sms_delivered">Сообщение доставлено</string>
+    <string name="sms_not_delivered">Сообщение не доставлено</string>
+    <string name="phone_exist">Данный номер телефона уже существует в другом контакте</string>
+
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="myContactsTitle">Contacts</string>
+    <string name="colorCyan">Cyan</string>
+    <string name="colorGray">Gray</string>
+    <string name="colorYellow">Yellow</string>
+    <string name="colorGreen">Green</string>
+    <string name="firstName">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="createContact">Create contact</string>
+    <string name="displayContactTitle">Edit contact</string>
+    <string name="createContactTitle">Create contact</string>
+    <string name="saveContact">Save</string>
+    <string name="deleteContact">Delete</string>
+    <string name="call">Call</string>
+    <string name="message">Text message</string>
+    <string name="send_message_button">Send</string>
+    <string name="messages">Messages</string>
+    <string name="sms_sent">SMS sent</string>
+    <string name="generic_failure">Generic failure</string>
+    <string name="no_service">No service</string>
+    <string name="null_pdu">NULL PDU</string>
+    <string name="radio_off">Radio off</string>
+    <string name="sms_delivered">SMS delivered</string>
+    <string name="sms_not_delivered">SMS not delivered</string>
+    <string name="phone_exist">This phone number already exists in another contact</string>
+
+
+</resources>
